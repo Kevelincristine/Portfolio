@@ -24,6 +24,10 @@ header{
     display: flex;
     justify-content: end;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
 }
  header nav ul {
     list-style: none;
@@ -53,6 +57,9 @@ main{
     
 }
 main #about-me {
+    grid-column: 2;
+}
+main #detalhes {
     grid-column: 2;
 }
 
@@ -227,10 +234,21 @@ main #projects h2 {
 
 .proj-img img {
     width: 100%;
-    max-width: 300px; 
-    border-radius: 8px;
-    display: block;
-    margin: 0 auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 8px;
+
+}
+.proj-container details a{
+   
+    text-decoration: none;
+    font-size: larger;
+    color: var(--highlight);
+}
+.proj-container details a:hover{
+    color: var(--inverse-highlight);
+    font-size: x-large;
 }
 
 .name-project {
@@ -245,8 +263,7 @@ main #projects h2 {
     font-size: 0.9rem;
     opacity: 0.7;
 }
-footer {
-    width: 100%;
+footer{
     background-color: var(--highlight);
     padding: 10px;
     color: var(--inverse-text);
@@ -266,9 +283,6 @@ footer {
  section #skills-container .info {
         margin-top: 5px;
 }
-@media screen and (min-width: 768px) {
-    
-
     .proj-itens {
         flex-direction: row;
         align-items: center;
@@ -282,7 +296,17 @@ footer {
     .proj-content {
         flex: 1;
     }
+    main{
+     grid-template-columns:  auto 300px 1fr auto;
+  }
+  section#about-me{
+   grid-column: 2/3 ;
+   height: fit-content;
+   position: sticky;
+   top:65px
+  }
+  section#detalhes{
+     grid-column: 3/4;
+  }
 }
-}
-
 
