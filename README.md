@@ -46,15 +46,45 @@ A productivity app combining Pomodoro technique with a to-do list that helps wit
 
 ---
 
-### 🔐 Login Model
+o
+# 🌐 Portfolio – Kevelin Cristine
 
-A simple login interface model that includes username/password fields — great for form practice. :contentReference[oaicite:6]{index=6}
+Este é o **meu portfólio pessoal**, desenvolvido com **HTML5, CSS3 e JavaScript**, hospedado no Vercel e projetado para apresentar minhas habilidades, educação e projetos. :contentReference[oaicite:1]{index=1}
+
+🔗 Veja a versão ao vivo:  
+https://portfolio-pied-three-64.vercel.app/
 
 ---
 
-## 📦 How to Run Locally
+## 💡 Sobre o Projeto
 
-To clone and view this project locally:
+Este site funciona como um **resumo profissional** da minha jornada como desenvolvedora front-end. Ele contém:
 
-```bash
-git clone https://github.com/Kevelincristine/Portfolio
+- 👩‍💻 **Seção de apresentação pessoal**  
+- 📊 **Seção de habilidades (skills)**  
+- 🎓 **Educação e cursos**  
+- 📂 **Projetos desenvolvidos**  
+- 📞 **Contato e links úteis**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi construído com:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Font Awesome** (ícones)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🟦 FocusFlow
+
+Aplicativo que combina a técnica Pomodoro com uma lista de tarefas para ajudar na organização e concentração durante sessões de estudo ou trabalho. :contentReference[oaicite:2]{index=2}
+
+👉 Link: https://kevelincristine.github.io/FocusFlow/
+
+---
