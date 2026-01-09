@@ -1,9 +1,3 @@
-
----
-
-## 🇺🇸 English Version (EN-US)
-
-```markdown
 # 🌐 Portfolio – Kevelin Cristine
 
 This is my **personal portfolio**, built with **HTML5, CSS3, and JavaScript**, deployed on Vercel to showcase my skills, education, and projects. :contentReference[oaicite:4]{index=4}
