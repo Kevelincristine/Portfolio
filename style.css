@@ -6,6 +6,14 @@
   --inverse-highlight: #66bbff;
   --card-background: #ffffff;
 }
+body.dark {
+     --main-background: #121212;     
+     --text-color: #e4e4e4;          
+     --inverse-text: #1a1a1a;        
+     --highlight: #4da3ff;           
+     --inverse-highlight: #1e4f99;  
+     --card-background: #1e1e1e; 
+}
 *{
   margin: 0px;
   padding: 0px;
@@ -103,6 +111,14 @@ section #perfil nav a {
 section #perfil nav a:hover {
     color: var(--inverse-highlight);
 } 
+nav #btn-theme {
+    background-color: var(--highlight);
+    border: 0px  ;
+    color: var(--inverse-text);
+    transition: color 0.5s;
+
+
+}
 section #apresentation {
     grid-column: 2;
     background-color: var(--card-background);
@@ -309,4 +325,3 @@ footer{
      grid-column: 3/4;
   }
 }
-
