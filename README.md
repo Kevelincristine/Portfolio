@@ -1,7 +1,6 @@
 # 🌐 Portfolio – Kevelin Cristine
 
-This is my **personal portfolio**, built with **HTML5, CSS3, and JavaScript**, deployed on Vercel to showcase my skills, education, and projects. :contentReference[oaicite:4]{index=4}
-
+This is my **personal portfolio**, built with **HTML5, CSS3, and JavaScript**, deployed on Vercel to showcase my skills, education, and projects. 
 🔗 Live Demo:  
 https://portfolio-pied-three-64.vercel.app/
 
@@ -34,8 +33,7 @@ The project was built using:
 
 ### 🟦 FocusFlow
 
-A productivity app combining Pomodoro technique with a to-do list that helps with focus and organization. :contentReference[oaicite:5]{index=5}
-
+A productivity app combining Pomodoro technique with a to-do list that helps with focus and organization. 
 👉 View live: https://kevelincristine.github.io/FocusFlow/
 
 ---
