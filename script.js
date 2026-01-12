@@ -19,3 +19,18 @@ btn.addEventListener("click",() =>{
      localStorage.setItem('theme', addDark ? 'dark' : 'light');
 });
 
+const navLinks = document.querySelectorAll('nav ul a.link');
+navLinks.forEach(link => {
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      const headerHeight = document.querySelector('header').offsetHeight;
+      const targetPosition = target.offsetTop - headerHeight - 20;
+      window.scrollTo({
+        top: targetPosition,
+        behavior: 'smooth'
+      });
+    }
+  });
+});
