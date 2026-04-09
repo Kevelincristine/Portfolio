@@ -29,14 +29,6 @@ The project was built using:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🟦 FocusFlow
-
-A productivity app combining Pomodoro technique with a to-do list that helps with focus and organization. 
-👉 View live: https://kevelincristine.github.io/FocusFlow/
-
----
 
 ## pt-br Portuguese Version (PT-BR)
 # 🌐 Portfolio – Kevelin Cristine
@@ -71,12 +63,3 @@ O projeto foi construído com:
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🟦 FocusFlow
-
-Aplicativo que combina a técnica Pomodoro com uma lista de tarefas para ajudar na organização e concentração durante sessões de estudo ou trabalho. :contentReference[oaicite:2]{index=2}
-
-👉 Link: https://kevelincristine.github.io/FocusFlow/
-
----
