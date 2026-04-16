@@ -1,34 +1,3 @@
-# 🌐 Portfolio – Kevelin Cristine
-
-This is my **personal portfolio**, built with **HTML5, CSS3, and JavaScript**, deployed on Vercel to showcase my skills, education, and projects. 
-🔗 Live Demo:  
-https://portfolio-pied-three-64.vercel.app/
-
----
-
-## 💡 Project Overview
-
-This site serves as my **professional showcase** and includes:
-
-- 👩‍💻 **About me section**
-- 📊 **Skills section**
-- 🎓 **Education and courses**
-- 📂 **Featured projects**
-- 📞 **Contact and useful links**
-
----
-
-## 🛠️ Technologies Used
-
-The project was built using:
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Font Awesome** (icons)
-
----
-
 
 ## pt-br Portuguese Version (PT-BR)
 # 🌐 Portfolio – Kevelin Cristine
